@@ -1,30 +1,27 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// pointer -> a (const)
-int comp(const void *a, const void *b){
-    return *(int*)a - *(int*)b;
+
+int cmpfunc (const void * a, const void * b) {
+   return ( *(int*)a - *(int*)b );
 }
 
-
-int main(int argc, const char argv[]){
-    int s[500];
-    int cs, n, median, sum ;
-    printf("Number of case:");
-    scanf("%d", &cs);
-    for(int i =0; i<cs; i++){
-        printf("Number of stree's parent:");
+int main() {
+    int kase;
+    scanf("%d", &kase);
+    while (kase--) {
+        int n,mid;
+        int ans=0;
         scanf("%d", &n);
-        for(int k=0 ; k<n; k++){
-            scanf("%d", &s[i]);
-        }
-        qsort(s, n, sizeof(int), comp);
-        median = s[n/2];
-
-        sum = 0;
-        
+        int* nums = (int*) malloc(n * sizeof(int));
+        for (int i = 0; i < n; i++) scanf("%d", &nums[i]);
+        qsort(nums, n, sizeof(int), cmpfunc);
+        mid = nums[n/2];
+        for (int i = 0; i < n; i++) 
+            ans+=abs(nums[i]-mid);
+        printf("%d\n",ans);
+        free(nums);
     }
-
     return 0;
-
 }
+
