@@ -62,6 +62,8 @@ Github 專題項目:
 
 專題PPT:
 > https://drive.google.com/file/d/102Yyl_qiH60gELTIwCKNR8vq_PxgjpAG/view?usp=sharing
+經濟平台項目網址:
+> https://github.com/HongMing0603/EconomicProgramPlatform
 
 其他項目:
 > https://github.com/HongMing0603?tab=overview&from=2023-03-01&to=2023-03-31
