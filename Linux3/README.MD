@@ -1,1 +1,10 @@
-Hello world
+[Lesson1](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson1/FirstLesson.md)
+[Lesson2](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson2/Lesson2.md)
+[Lesson3](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson3/Lesson3.md)
+[Lesson4](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson4/Lesson4.md)
+[Lesson5](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson5/Lesson5.md)
+[Lesson6](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson6/Lesson6.md)
+[Lesson7](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson7/Lesson7.md)
+[Lesson8](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson8/2023-04-12.md)
+[Lesson9](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson9/0419.md)
+[Lesson10](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson10/0426.md)
