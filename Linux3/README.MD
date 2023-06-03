@@ -8,3 +8,8 @@
 [Lesson8](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson8/2023-04-12.md) <br>
 [Lesson9](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson9/0419.md) <br>
 [Lesson10](https://github.com/HongMing0603/Personal-Resume/blob/master/Linux3/Lesson10/0426.md) <br>
+[Lesson11](https://github.com/HongMing0603/Personal-Resume/blob/20230603Changed/Linux3/Lesson11/0503.md) <br>
+[Lesson12](https://github.com/HongMing0603/Personal-Resume/blob/20230603Changed/Linux3/Lesson12/0508.md) <br>
+[Lesson13](https://github.com/HongMing0603/Personal-Resume/blob/20230603Changed/Linux3/Lesson13/20220517.md) <br>
+[Lesson14](https://github.com/HongMing0603/Personal-Resume/blob/20230603Changed/Linux3/Lesson14/20230524.md) <br>
+[Lesson15](https://github.com/HongMing0603/Personal-Resume/blob/20230603Changed/Linux3/Lesson15/20230531.md) <br>
