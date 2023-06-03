@@ -129,19 +129,19 @@ then
 到你的虛擬機 輸入ifconfig就可以看到你的ipv6位置(記得要打開網路!!)
 
 點擊Create Zone
-![picture 2](../images/a4b85608764adc18a726bd0e1c959aacf74cebda6a39d730bc885c4208acd218.png)  
+![picture 2](/images/a4b85608764adc18a726bd0e1c959aacf74cebda6a39d730bc885c4208acd218.png)  
 
 導航欄的My zone可以看到你剛剛創建的 Zone
-![picture 3](../images/715f7965b1c2c46035342bc44824e92ef4248c3e6f714c264d70d825d216034e.png)  
+![picture 3](/images/715f7965b1c2c46035342bc44824e92ef4248c3e6f714c264d70d825d216034e.png)  
 
 >這邊提醒一下各位如果你必須先去gmail驗證一下你的身份(它會寄驗證信)
 才能夠使用Domain name的功能，否則你試10000遍都沒用(不說了，說了都是淚= =)
 
 需要先啟動httpd與停止firewall
-![picture 4](../images/b43c73310b21e925c56127a40c35c1aac19ae2b7fe53b34834bf42905972dac4.png)  
+![picture 4](/images/b43c73310b21e925c56127a40c35c1aac19ae2b7fe53b34834bf42905972dac4.png)  
 
 你的網站能夠使用Domain Name在公網上給別人瀏覽了~
-![picture 5](../images/29b0e29b9160c601ed66269f9e5174cb477dc408bacc64be7905b107dbab3f02.png)  
+![picture 5](/images/29b0e29b9160c601ed66269f9e5174cb477dc408bacc64be7905b107dbab3f02.png)  
 
 
 
